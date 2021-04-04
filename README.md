@@ -11,6 +11,12 @@ using a random project
 
 ## Purpose
 
+As state above, the main purpose is to 
+learn Git and Github :) 
+
 ## Deployment
+
+This is a simple random project, deployment
+can be on any web server
 
 ## How To Contribute
