@@ -21,4 +21,8 @@ can be on any web server
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
+## Copywright
+
 2014 Git.Training.
