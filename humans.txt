@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Friptu Teodor  examplemail@mailhost.com
 
 # THANKS
 

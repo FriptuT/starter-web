@@ -20,3 +20,5 @@ This is a simple random project, deployment
 can be on any web server
 
 ## How To Contribute
+
+2014 Git.Training.
