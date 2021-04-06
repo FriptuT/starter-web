@@ -8,6 +8,7 @@
 # THANKS
 
     hello there again
+	Hello there again with stash 
 
 # TECHNOLOGY COLOPHON
 
