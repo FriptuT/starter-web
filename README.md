@@ -27,4 +27,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Copywright
 
-2014 Git.Training. laklaaak
+2014 Git.Training. All rights reserved.
