@@ -14,3 +14,6 @@ function calculateChange(a,b)
 }
 
 calculateChange(myBugetRON, priceRON);
+
+// zmxnmxznmxmmxzxmzmcmxmzxmxzmxzm
+// zxmzmzmxnmxnzmxnzmxnmzxnmnxmzxm
