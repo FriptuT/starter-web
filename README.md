@@ -8,6 +8,8 @@ This is an example of showing different parts of the Git repository and basic co
 
 ## Purpose
 
+As we can see above, the main purpose is to learn Git & Github
+
 ## Deployment
 
 ## How to contribute
