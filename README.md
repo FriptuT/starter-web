@@ -17,6 +17,7 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How to contribute
 
 As I said , this is only a testing project for learning Git & Github
+Please fork this repository and then issue Pull Requests for review.
 
 <!-- 
 2023-Git 
