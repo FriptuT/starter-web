@@ -3,8 +3,9 @@
 
 # TEAM
 
-    Friptu Teodor  examplemail@mailhost.com
-			lalalal
+    Friptu Teodor 
+    fript.teodor.u7y@student.ucv.ro
+
 # THANKS
 
     hello there again
